@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+CucumberKW.runFeatureFile('Include/features/Register.feature')
+
+CucumberKW.runFeatureFile('Include/features/Login.feature')
+
+CucumberKW.runFeatureFile('Include/features/Dashboard.feature')
+
+CucumberKW.runFeatureFile('Include/features/Transaction.feature')
+
+WebUI.closeBrowser()
+

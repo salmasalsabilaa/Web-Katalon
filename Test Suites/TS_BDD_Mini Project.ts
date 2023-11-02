@@ -11,4 +11,11 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>de1a6dda-53b2-4675-bf29-082408deb3fa</testSuiteGuid>
+   <testCaseLink>
+      <guid>f022e1fe-a2e2-43bb-ad42-dc652c492af1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_BDD_MiniProject</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
